@@ -16,7 +16,7 @@ Starthome is a minimalistic and simp startpage/homepage with a navigation bar wi
 
 ## Preview
 
-<img src="readmesrc/ss.png">
+<img src="readmesrc/screenshot.png">
 <p> Hosted version of the webpage - <a href="https://starthome.netlify.app/"></a>
 </p>
 

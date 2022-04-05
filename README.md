@@ -18,7 +18,7 @@ Homless is a another conventional and minimalist startpage i made.
 <img src="readmesrc/screenshot.png">
 
 
-<a href="https://starthome.netlify.app/">Hosted Preview</a>
+<a href="https://homless.netlify.app">Hosted Preview</a>
 
 
 ## Setup
@@ -42,7 +42,7 @@ Homless is a another conventional and minimalist startpage i made.
 </p>
 <h2>Hosted</h2>
 <p>
-Same thing but enter the url of the website (https://starthome.netlify.app) in the url box while editing the extension settings
+Same thing but enter the url of the website (https://homless.netlify.app) in the url box while editing the extension settings
 </p>
 
 

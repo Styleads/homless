@@ -1,0 +1,129 @@
+body {
+  object-position: center;
+  width: 100%;
+  margin: 0;
+  font-family: 'Cantarell', 'monospace';
+  background-image: url(images/background.jpg);
+  box-sizing: border-box;
+  position: absolute;
+  top: 30%;
+  transform: translateY(-50%);
+}
+
+h2 {
+  color: #fff;
+  position: absolute;
+  font-size: 50px;
+  top: 400px;
+  left: 515px;
+}
+
+h3 {
+  color: #fff;
+  position: absolute;
+  font-size: 23px;
+  top: 477px;
+  left: 490px;
+}
+
+.image {
+  margin-left: 400px;
+  margin-top: 400px;
+  border: 4px solid;
+  border-color: #fff;
+  box-shadow: 0 0 9px #ffffff;
+}
+
+
+input {
+  position: absolute;
+  top: 500px;
+  margin-left: 920px;
+	border:none;
+	border-bottom: 2px solid #fff;
+	min-width: 750px;
+	padding-bottom: 1px;
+	background-color: transparent;
+	color: #fff;
+	outline: 0;
+  font-size: 30px ;
+}
+
+::placeholder { 
+  color: #fff;
+  opacity: 1; 
+}
+
+.raise {
+  --color: #e7fff9;
+}
+
+.raise:hover,
+.raise:focus {
+  box-shadow: 0 0.4em 0.4em -0.5em rgb(36, 36, 36);
+  transform: translateY(-0.25em);
+}
+
+
+#links {
+  color: var(--color);
+  transition: 0.25s;
+}
+#links:hover, #links:focus {
+  border-color: rgb(36, 36, 36);
+  color: rgb(36, 36, 36);
+}
+
+#links {
+    width: 220px;
+    height: 105px;
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    cursor:pointer;
+    border-radius: 6%;
+    font-size: 40px;
+}
+
+.a1 { grid-area: a1; }
+.a2 { grid-area: a2; }
+.a3 { grid-area: a3; }
+.a4 { grid-area: a4; }
+.a5 { grid-area: a5; }
+.a6 { grid-area: a6; }
+.a7 { grid-area: a7; }
+.a8 { grid-area: a8; }
+.a9 { grid-area: a9; }
+
+.objects {
+  margin-top: 250px;
+  margin-left: 340px;
+  padding: 0px;
+  display: grid;
+  grid-template-areas: 
+    ' a1 a2 a3'
+    ' a4 a5 a6'
+    ' a7 a8 a9';
+    grid-gap: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} 
+
+h1 {
+  justify-content: center;
+  font-size: 400%;
+  color: aliceblue;
+  margin-right: 400px;
+}
+
+.aesthetic {
+  margin-right: 900px;
+}
+
+
+
+
+

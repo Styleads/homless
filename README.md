@@ -12,13 +12,14 @@
 
 ## About
 
-Starthome is a minimalistic and simp startpage/homepage with a navigation bar with 4 search engines and icons as buttons redirecting to desired site.
-
+Homless is a another conventional and minimalist startpage i made.
 ## Preview
 
 <img src="readmesrc/screenshot.png">
-<p> Hosted version of the webpage - <a href="https://starthome.netlify.app/"></a>
-</p>
+
+
+<a href="https://starthome.netlify.app/">Hosted Preview</a>
+
 
 ## Setup
 
